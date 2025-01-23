@@ -4,7 +4,7 @@
 
 ## 📌 Visão Geral
 
-Este projeto foi realizado com o objetivo de analisar os dados de uma empresa de [ramo da empresa], tendo sido identificados os fatores que mais implicavam na inadimplência por parte dos clientes, desenvolvido um modelo preditivo e indicada uma possível solução para mitigar esse problema.
+Este projeto teve como objetivo analisar os dados de uma instituição financeira concessora de crédito. Foram identificados os fatores que mais influenciavam a inadimplência por parte dos clientes, desenvolvido um modelo preditivo e sugerida uma solução para mitigar esse problema.
 
 [📘 Notebook](https://github.com/Mathsnts18/risco_de_credito2/blob/main/notebooks/case_risco_de_credito.ipynb)
 
