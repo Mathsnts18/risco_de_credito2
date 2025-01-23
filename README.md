@@ -1,5 +1,7 @@
 # Risco de Crédito
 
+![cover](imgs/cover.jpg)
+
 ## 📌 Visão Geral
 Este projeto foi realizado com o objetivo de analisar os dados de uma empresa de [ramo da empresa], tendo sido identificados os fatores que mais implicavam na inadimplência por parte dos clientes, desenvolvido um modelo preditivo e indicada uma possível solução para mitigar esse problema.
 
