@@ -1,0 +1,24 @@
+[tool.poetry]
+name = "risco-de-credito"
+version = "0.1.0"
+description = ""
+authors = ["Matheus Santos <msantos18.ms@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11.4"
+pandas = "^2.2.3"
+numpy = "^1.23.5"
+ipykernel = "^6.29.5"
+matplotlib = "^3.10.0"
+seaborn = "^0.13.2"
+sweetviz = "^2.3.1"
+scikit-learn = "^1.6.0"
+openpyxl = "^3.1.5"
+imblearn = "^0.0"
+shap = "^0.46.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
