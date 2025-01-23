@@ -117,7 +117,7 @@ Optarei pelo modelo LinearSVC, devido à sua leve vantagem tanto na média quant
 
 Com a ajuda do `RandomizedSearchCV` do *Scikit-learn*, o modelo escolhido foi exaustivamente otimizado para identificar o melhor conjunto de hiperparâmetros. Essa abordagem permitiu testar várias combinações de parâmetros de forma eficiente, maximizando o desempenho do modelo sem comprometer o tempo de execução.
 
-## Análise Financeira
+## 💰 Análise Financeira
 
 Com o modelo preditivo criado, é possível desenvolver uma estratégia individualizada de aconselhamento, com o objetivo de encorajar os clientes com alto risco de inadimplência a pagar suas dívidas a tempo. Caso isso não seja viável, podem ser oferecidas opções de pagamento alternativas. O custo por aconselhamento é de R$ 200,00, e a taxa de sucesso esperada é de 70%.
 
@@ -125,7 +125,7 @@ Com o modelo preditivo criado, é possível desenvolver uma estratégia individu
 
 Com o modelo preditivo implementado, conseguimos mitigar **R$ 20.224,24** no conjunto de teste, resultando em uma economia de aproximadamente **25%** em relação ao cenário sem intervenção.
 
-## Conclusão geral
+## ✅ Conclusão geral
 
 Após uma análise profunda das métricas de desempenho e das análises financeiras, os seguintes pontos foram observados:
 
