@@ -3,7 +3,10 @@
 ![cover](imgs/cover.jpg)
 
 ## 📌 Visão Geral
+
 Este projeto foi realizado com o objetivo de analisar os dados de uma empresa de [ramo da empresa], tendo sido identificados os fatores que mais implicavam na inadimplência por parte dos clientes, desenvolvido um modelo preditivo e indicada uma possível solução para mitigar esse problema.
+
+[📘 Notebook](https://github.com/Mathsnts18/risco_de_credito2/blob/main/notebooks/case_risco_de_credito.ipynb)
 
 ## 💼 Entendimento do Negócio
 
@@ -17,7 +20,6 @@ Além disso, o gerenciamento de carteiras de crédito requer estratégias proati
 
 ![alt text](imgs/image.png)
 
-[📘 Notebook - Análise exploratória de dados](https://github.com/Mathsnts18/risco_de_credito2/blob/main/notebooks/case_risco_de_credito.ipynb)
 
 [💾 Relatório - Faça o download](https://github.com/Mathsnts18/risco_de_credito2/blob/main/notebooks/SWEETVIZ_REPORT.html)
 
